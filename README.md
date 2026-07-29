@@ -34,11 +34,7 @@ Work I'd point at:
 ### Also upstream
 
 - **[strands-agents/agent-sop](https://github.com/strands-agents/agent-sop)** — top-5
-  contributor to AWS Strands' SOP workflow framework, including
-  [renaming Anthropic skills to Agent Skills](https://github.com/strands-agents/agent-sop/pull/67)
-  across the repo and
-  [removing agent-specific tool references](https://github.com/strands-agents/agent-sop/pull/63)
-  so the SOPs aren't tied to one agent.
+  contributor to AWS Strands' SOP workflow framework
 - **[openclaw/clawsweeper](https://github.com/openclaw/clawsweeper)** —
   [suppressed changelog-only findings](https://github.com/openclaw/clawsweeper/pull/57)
   in the bot that triages every OpenClaw PR and issue.
